@@ -3,6 +3,7 @@
 
 int main(){
     printf("ola, mundo\n");
+    printf("ESSE E UM TESTE\n");
 
     return 0;
 }
